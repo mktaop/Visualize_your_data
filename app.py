@@ -65,7 +65,7 @@ def main():
                     understand the make up of the data.
                    """
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model=MODEL_ID,
         contents=prompt,
         config = types.GenerateContentConfig(
             response_mime_type="text/plain",
