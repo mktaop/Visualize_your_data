@@ -1,3 +1,3 @@
-# Visualize_your_data
+# Visualize Your CSV Data
 Visualize your data with a streamlit app and by leveraging Google's Gemini 2.5 Flash and Python's built in function exec() \
 Please **STAR** this repo if you find the code helpful/useful.
